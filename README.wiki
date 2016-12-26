@@ -110,7 +110,7 @@
 [https://github.com/zhaoyun1963/zhaoyun1963/blob/master/zhaoyun1963%20gpg%20key%20fingerprint zhaoyun1963 gpg key fingerprint] : 赵云1963 GPG公钥指纹。
 
   
-  
+
 == 下载说明 ==
 
 GitHub 提供了“下载整个项目”的功能，
@@ -119,8 +119,4 @@ GitHub 提供了“下载整个项目”的功能，
 
 然后在【右上方】你会看到一个 '''Raw 按钮''' ，在这个按钮上点【右键】，在【右键菜单】里面选“保存”或“另存为”，就可以把这个文件下载到你本机。
 
-== 致“反对此项目的墙内程序员” ==
 
-
-
-有兴趣的同学，可以看俺之前的博文——《[https://program-think.blogspot.com/2012/06/stockholm-syndrome.html 天朝民众的心理分析：斯德哥尔摩综合症]》
