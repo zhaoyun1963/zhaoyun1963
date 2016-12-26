@@ -110,13 +110,12 @@ GitHub 提供了“下载整个项目”的功能，
 [https://github.com/zhaoyun1963/zhaoyun1963/blob/master/%E8%AE%A8%E6%88%BF%E6%AA%84%E6%96%87%E4%B9%8B%E6%8D%90%E6%AC%BE%E6%8A%95%E7%A5%A8%E5%90%8D%E5%BD%95%E3%80%90%E8%B5%B5%E4%BA%911963%E3%80%91.pdf 讨房檄文之捐款投票名录【赵云1963】.pdf] : pdf格式的捐款投票名录。
 
 [https://github.com/zhaoyun1963/zhaoyun1963/blob/master/%E8%AE%A8%E6%88%BF%E6%AA%84%E6%96%87%E4%B9%8B%E6%8D%90%E6%AC%BE%E6%8A%95%E7%A5%A8%E5%90%8D%E5%BD%95%E3%80%90%E8%B5%B5%E4%BA%911963%E3%80%91.pdf.asc 讨房檄文之捐款投票名录【赵云1963】.pdf.asc] ： 讨房檄文之捐款投票名录【赵云1963】.pdf的gpg电子签名。
-  
-[https://github.com/zhaoyun1963/zhaoyun1963/blob/master/zhaoyun1963%20gpg%20public%20key zhaoyun1963 gpg public key] : 赵云
-  1963 GPG公钥。
 
-[https://github.com/zhaoyun1963/zhaoyun1963/blob/master/zhaoyun1963%20gpg%20key%20fingerprint zhaoyun1963 gpg key fingerprint] : 赵云
-  1963 GPG公钥指纹。
-  
+[https://github.com/zhaoyun1963/zhaoyun1963/blob/master/zhaoyun1963%20gpg%20public%20key zhaoyun1963 gpg public key] : 赵云1963 GPG公钥。
+
+[https://github.com/zhaoyun1963/zhaoyun1963/blob/master/zhaoyun1963%20gpg%20key%20fingerprint zhaoyun1963 gpg key fingerprint] : 赵云1963 GPG公钥指纹。
+
+  
   
 == 目录说明 ==
 
